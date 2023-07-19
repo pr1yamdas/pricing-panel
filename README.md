@@ -32,7 +32,7 @@ Apple Safari
 Feel free to modify and customize the template to suit your needs. If you find any issues or have suggestions for improvements, please feel free to submit an issue or pull request.
 
 About
-This template was created by [Your Name/Company Name. You can reach out to me at dpriyam321@gmail.com.
+You can reach out to me at dpriyam321@gmail.com.
 
 Happy coding!
 
